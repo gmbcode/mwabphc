@@ -1,6 +1,5 @@
 # Mock Wing Allotment Simulator
-[mwabphc.vercel.app](https://www.mwabphc.vercel.app)
-![mwalogo](public/logo512.png?raw=true)
+[mwabphc.vercel.app](https://mwabphc.vercel.app)
 ##Simulates mock wing allotment
 
 
