@@ -29,7 +29,9 @@ h1 {
 main {
   flex: 1;
 }
-
+p.ftr {
+  text-align:center;
+}
 footer {
   margin-top: 40px;
   padding: 20px 0;
