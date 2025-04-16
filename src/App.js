@@ -12,7 +12,7 @@ function App() {
         <Form />
       </main>
       <footer>
-        <p>© {new Date().getFullYear()} - <a href="https://github.com/gmbcode/">gmbcode</a></p>
+        <p class="ftr">© {new Date().getFullYear()} - <a href="https://github.com/gmbcode/">gmbcode</a></p>
       </footer>
     </div>
   );
