@@ -105,7 +105,7 @@ const Form = () => {
 
   return (
     <div className="form-container">
-      <h2>Form with reCAPTCHA</h2>
+      <h2>Mock Wing Allotment Simulator</h2>
       
       {status && (
         <div className={`status-message ${status.includes('success') ? 'success' : 'error'}`}>
